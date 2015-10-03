@@ -36,3 +36,11 @@ p {
     margin-bottom: 0;
 }
 
+footer{
+    padding:2px 5px 6px 5px;
+}
+footer h4 {
+    text-transform:uppercase;
+}
+
+
